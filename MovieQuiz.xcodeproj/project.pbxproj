@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		6E97EDC32C2232F7009C7760 /* YS Display-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6E97EDC22C2232F7009C7760 /* YS Display-Bold.ttf */; };
+		6E40FD0F2C3C985A009D292D /* YS Display-Bold 17.57.16.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6E40FD0E2C3C985A009D292D /* YS Display-Bold 17.57.16.ttf */; };
 		6E97EDC52C22330C009C7760 /* YS Display-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6E97EDC42C22330C009C7760 /* YS Display-Medium.ttf */; };
 		AD1ABAB22831907B00B3E448 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1ABAB12831907B00B3E448 /* AppDelegate.swift */; };
 		AD1ABAB42831907B00B3E448 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1ABAB32831907B00B3E448 /* SceneDelegate.swift */; };
@@ -21,7 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		6E97EDC22C2232F7009C7760 /* YS Display-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "YS Display-Bold.ttf"; path = "../../../../Downloads/MovieQuizFonts 2/YS Display-Bold.ttf"; sourceTree = "<group>"; };
+		6E40FD0E2C3C985A009D292D /* YS Display-Bold 17.57.16.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "YS Display-Bold 17.57.16.ttf"; sourceTree = "<group>"; };
 		6E97EDC42C22330C009C7760 /* YS Display-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "YS Display-Medium.ttf"; sourceTree = "<group>"; };
 		AD1ABAAE2831907B00B3E448 /* MovieQuiz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MovieQuiz.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD1ABAB12831907B00B3E448 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -73,8 +73,8 @@
 		8F4738332848DE46005DF65E /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				6E97EDC22C2232F7009C7760 /* YS Display-Bold.ttf */,
 				6E97EDC42C22330C009C7760 /* YS Display-Medium.ttf */,
+				6E40FD0E2C3C985A009D292D /* YS Display-Bold 17.57.16.ttf */,
 				AD1ABABC2831907F00B3E448 /* LaunchScreen.storyboard */,
 				AD1ABABA2831907F00B3E448 /* Assets.xcassets */,
 				AD1ABABF2831907F00B3E448 /* Info.plist */,
@@ -182,8 +182,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				AD1ABABE2831907F00B3E448 /* LaunchScreen.storyboard in Resources */,
+				6E40FD0F2C3C985A009D292D /* YS Display-Bold 17.57.16.ttf in Resources */,
 				AD1ABABB2831907F00B3E448 /* Assets.xcassets in Resources */,
-				6E97EDC32C2232F7009C7760 /* YS Display-Bold.ttf in Resources */,
 				AD1ABAB92831907B00B3E448 /* Main.storyboard in Resources */,
 				6E97EDC52C22330C009C7760 /* YS Display-Medium.ttf in Resources */,
 			);
